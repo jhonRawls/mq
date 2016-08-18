@@ -8,7 +8,7 @@
 	<description>message quene</description>
 
 <build>
-<sourceDirectory>src</sourceDirectory>
+<sourceDirectory>cn</sourceDirectory>
 <plugins>
  
 <plugin>
